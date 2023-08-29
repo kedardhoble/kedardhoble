@@ -28,4 +28,17 @@
 <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="60">
 </h4>
 
-
+<p align="center">
+  <a href="https://github.com/kedardhoble/github-readme-stats"
+    ><img
+      alt="Kedar Dhoble's Github Stats"
+      src="https://github-readme-stats.vercel.app/api?username=kedardhoble&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
+  /></a>
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedardhoble&theme=react&hide_border=true&bg_color=0D1117"
+    height="260px"
+    width="33.25%"
+  />
+</p>
