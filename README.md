@@ -31,7 +31,7 @@
 <p align="center">
   <a href="https://github.com/kedardhoble/github-readme-stats"
     ><img
-      alt="Kedar Dhoble's Github Stats"
+      alt="Kedar's Github Stats"
       src="https://github-readme-stats.vercel.app/api?username=kedardhoble&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
   /></a>
 </p>
