@@ -38,13 +38,13 @@ I also write about technology and programming.
       <a href="https://github.com/kedardhoble/github-readme-stats">
         <img
           alt="Kedar's GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=kedardhoble&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
+          src="https://github-readme-stats.vercel.app/api?username=kedardhoble&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117"
         />
       </a>
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedardhoble&theme=react&hide_border=true&bg_color=0D1117"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedardhoble&theme=react&hide_border=false&bg_color=0D1117"
         height="260px"
         width="100%"
       />
