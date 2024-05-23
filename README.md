@@ -23,6 +23,8 @@ I'm passionate about technology and love working with various programming langua
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="60" alt="GitLab">
   <img src="https://raw.githubusercontent.com/todogroup/todogroup.org/1d3dc3dccb59fbbb4cc7a39db5d173e2cd33d8a4/static/img/logo_aws.svg" width="60" alt="AWS">
 </p>
+<br/>
+
 
 I also write about technology and programming. 
 **Check out some of my recent blog posts:**
