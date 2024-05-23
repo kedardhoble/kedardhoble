@@ -24,25 +24,34 @@ I'm passionate about technology and love working with various programming langua
   <img src="https://raw.githubusercontent.com/todogroup/todogroup.org/1d3dc3dccb59fbbb4cc7a39db5d173e2cd33d8a4/static/img/logo_aws.svg" width="60" alt="AWS">
 </p>
 
+I also write about technology and programming. 
+**Check out some of my recent blog posts:**
+
+- **[Authenticate you app with the help of Fast API and JWT](https://medium.com/@kedardhoble2001/flawless-authentication-with-fastapi-and-json-web-tokens-45dde7223d9c)**: Learn how to implement robust authentication in your FastAPI application using JSON Web Tokens (JWT). This guide covers setup, configuration, and best practices to secure your API endpoints effectively.
+- **[VPC Peering](https://medium.com/@kedardhoble2001/step-by-step-guide-to-vpc-peering-d7f866318034)**: Learn how to peer your VPCs in AWS with this step-by-step guide. Establish a secure and private network connection between two VPCs, enabling seamless communication within the AWS cloud.
+
 ### GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/kedardhoble/github-readme-stats">
-    <img
-      alt="Kedar's GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=kedardhoble&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
-    />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/kedardhoble/github-readme-stats">
+        <img
+          alt="Kedar's GitHub Stats"
+          src="https://github-readme-stats.vercel.app/api?username=kedardhoble&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
+        />
+      </a>
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedardhoble&theme=react&hide_border=true&bg_color=0D1117"
+        height="260px"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedardhoble&theme=react&hide_border=true&bg_color=0D1117"
-    height="260px"
-    width="33.25%"
-  />
-</p>
-  
 ### Connect with Me
 
 <p align="center">
@@ -51,5 +60,8 @@ I'm passionate about technology and love working with various programming langua
   </a>
   <a href="mailto:kedardhoble2001@gmail.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30" alt="Email">
+  </a>
+  <a href="https://medium.com/@kedardhoble2001" target="_blank">
+    <img src="https://upload.vectorlogo.zone/logos/medium/images/43c41ba8-9de2-453d-92dc-500dab4e316a.svg" width="30" alt="Medium Blogs">
   </a>
 </p>
