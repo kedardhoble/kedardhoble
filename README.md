@@ -2,7 +2,7 @@
 
 ### Welcome Peeps!!!
 
-I'm passionate about technology and love working with various programming languages and frameworks. Below are some of the tools and technologies I use regularly:
+For the last 2 years, I've been working as a Python Backend developer. I'm passionate about technology and love working with various programming languages and frameworks. Below are some of the tools and technologies I use regularly:
 
 <!--🖼️🖼️INTEREST LOGOS-->
 <p align="center">
