@@ -2,7 +2,14 @@
 
 ### Welcome Peeps!!!
 
-For the last 2 years, I've been working as a Python Backend developer. I'm passionate about technology and love working with various programming languages and frameworks. Below are some of the tools and technologies I use regularly:
+🛠️ I've worked on various Python frameworks    
+💬 Ask me about Python, Backend, and Databases  
+🎮 I enjoy playing around with APIs and integrating them into applications  
+🤖 I've worked on training models, including data extraction and preprocessing    
+📘 I’m currently learning JavaScript, React, and other Frontend tools   
+
+I have a passion for technology and enjoy working with various programming languages and frameworks. I am also eager to learn more about AI. Below are some of the tools and technologies I use regularly:
+
 
 <!--🖼️🖼️INTEREST LOGOS-->
 <p align="center">
@@ -19,7 +26,7 @@ For the last 2 years, I've been working as a Python Backend developer. I'm passi
   <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60" alt="VS Code"> -->
   <!-- <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60" alt="Linux"> -->
   <!-- <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="60" alt="Golang"> -->
-  <!-- <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="60" alt="OpenCV"> -->
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="60" alt="OpenCV">
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="60" alt="GitLab">
   <img src="https://raw.githubusercontent.com/todogroup/todogroup.org/1d3dc3dccb59fbbb4cc7a39db5d173e2cd33d8a4/static/img/logo_aws.svg" width="60" alt="AWS">
 </p>
@@ -29,7 +36,7 @@ For the last 2 years, I've been working as a Python Backend developer. I'm passi
 I also write about technology and programming. 
 **Check out some of my recent blog posts:**
 
-- **[Authenticate you app with the help of Fast API and JWT](https://medium.com/@kedardhoble2001/flawless-authentication-with-fastapi-and-json-web-tokens-45dde7223d9c)**: Learn how to implement robust authentication in your FastAPI application using JSON Web Tokens (JWT). This guide covers setup, configuration, and best practices to secure your API endpoints effectively.
+- **[Authenticate your app with the help of Fast API and JWT](https://medium.com/@kedardhoble2001/flawless-authentication-with-fastapi-and-json-web-tokens-45dde7223d9c)**: Learn how to implement robust authentication in your FastAPI application using JSON Web Tokens (JWT). This guide covers setup, configuration, and best practices to secure your API endpoints effectively.
 - **[VPC Peering](https://medium.com/@kedardhoble2001/step-by-step-guide-to-vpc-peering-d7f866318034)**: Learn how to peer your VPCs in AWS with this step-by-step guide. Establish a secure and private network connection between two VPCs, enabling seamless communication within the AWS cloud.
 
 ### GitHub Stats
