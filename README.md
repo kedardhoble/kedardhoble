@@ -14,21 +14,21 @@ I have a passion for technology and enjoy working with various programming langu
 <!--🖼️🖼️INTEREST LOGOS-->
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60" alt="Python">
-  <img src="https://cdn.icon-icons.com/icons2/3913/PNG/96/fastapi_logo_icon_248575.png" width="60" alt="Fast API">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="60" alt="Flask">
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60" alt="JavaScript">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" alt="HTML5">
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="60" alt="CSS3">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_3MFhCzXcwI3GWIDTsWJg2HXDTG7TwGovA&s" width="60" alt="Fast API">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" width="60" alt="Flask">
+<!--   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60" alt="JavaScript"> -->
+<!--   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" alt="HTML5"> -->
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="60" alt="Docker">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" alt="Postman">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" width="60" alt="Pandas">
+<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" width="60" alt="Pandas"> -->
+  <img src="https://raw.githubusercontent.com/todogroup/todogroup.org/1d3dc3dccb59fbbb4cc7a39db5d173e2cd33d8a4/static/img/logo_aws.svg" width="60" alt="AWS">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="60" alt="MongoDB">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="60" alt="MySQL">
-  <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60" alt="VS Code"> -->
-  <!-- <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60" alt="Linux"> -->
+<!--   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6HtZa2X8LENfgCKWGakyi5A3HLnYENeCceuGqHw5JFV-b_3PgACS3uZpPJxurFFDw9Fo&usqp=CAU" width="60" alt="Pytest"> -->
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60" alt="Linux">
   <!-- <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="60" alt="Golang"> -->
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="60" alt="OpenCV">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" width="60" alt="Kubernetes">
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="60" alt="GitLab">
-  <img src="https://raw.githubusercontent.com/todogroup/todogroup.org/1d3dc3dccb59fbbb4cc7a39db5d173e2cd33d8a4/static/img/logo_aws.svg" width="60" alt="AWS">
 </p>
 <br/>
 
