@@ -6,7 +6,7 @@
 💬 Ask me about Python, Backend, and Databases  
 🎮 I enjoy playing around with APIs and integrating them into applications  
 🤖 I've worked on training models, including data extraction and preprocessing    
-📘 I’m currently learning JavaScript, React, and other Frontend tools   
+📘 I have done end-to-end deployment of applications using Docker and Docker Compose. 
 
 I have a passion for technology and enjoy working with various programming languages and frameworks. I am also eager to learn more about AI. Below are some of the tools and technologies I use regularly:
 
