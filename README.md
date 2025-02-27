@@ -32,6 +32,7 @@ I have a passion for technology and enjoy working with various programming langu
 </p>
 <br/>
 
+Check out my portfolio: https://kzmo45x93e7w1wy1oshg.lite.vusercontent.net/ 
 
 I also write about technology and programming. 
 **Check out some of my recent blog posts:**
